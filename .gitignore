@@ -57,8 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-# sqlite file
-.sqlite
-
 # next.js build output
 .next
